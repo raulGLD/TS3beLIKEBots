@@ -1,2 +1,2 @@
-# TS3CreateNewChannel
-TS3 Bot that created a new channel using the given command.
+# TS3beLIKEbots
+Here you will find a wide variety of bots that we developed.
